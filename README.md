@@ -28,3 +28,7 @@ Video embedding for lessons
 
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/ef2595b9-01ca-43df-8b83-998c7d0b3c83)
+
+![Image](https://github.com/user-attachments/assets/7af226d8-1e7a-4607-a1d5-6e2f9a7498b4)
